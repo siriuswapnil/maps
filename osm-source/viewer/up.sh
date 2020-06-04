@@ -6,3 +6,5 @@ cp -r assets/* /library/www/osm-vector-maps/viewer/assets/
 
 cp -r build/* ../../webpack/assets/
 cp -r build/* /library/www/osm-vector-maps/viewer/
+
+cp -r data/* /library/www/osm-vector-maps/viewer/data/geojson/
